@@ -1,6 +1,2 @@
-it's a test
-it's a a  a a a  a a test
-it's a btest
-dfkjhadfkhadfkjhadfkhj
-kadskjlasdkjlfa
-my stupid boss still prefers to SN
+Git is a version control system.
+git is free software.
